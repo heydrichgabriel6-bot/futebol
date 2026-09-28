@@ -100,12 +100,12 @@ const perguntas = [
         pergunta: "Na final da Copa do Mundo de 1994, o Brasil conquistou o tetracampeonato contra a Itália nos pênaltis. Qual jogador italiano isolou a cobrança decisiva que garantiu o título ao Brasil?",
         imagem: "tetra.jpg",
         alternativas: [
-            "Frango Baresi",
+            "Franco Baresi",
             "Daniele Massaro",
             "Roberto Baggio",
             "Paolo Maldini"
         ],
-        correta: 3
+        correta: 2
     },
 
     
